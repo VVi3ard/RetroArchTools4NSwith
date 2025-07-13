@@ -5,3 +5,5 @@ delete_ftp_lpl_processor.py - подключается к NSW по FTP и уда
 
 
 rename_png_files.py - конвертирует коллецию для ES (RetroBat/Batocera) например коллекция (https://ckaunui.github.io/www/index.html) в коллекцию для RetroArch анализируя плейлисты и переименовывая файлы картинок по имени файла. 
+
+https://github.com/VVi3ard/RetroArchTools4NSwith/wiki
